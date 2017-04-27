@@ -1,0 +1,3 @@
+rootProject.name = 'ReactCalendar'
+
+include ':app'
